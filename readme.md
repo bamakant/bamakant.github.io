@@ -1,1 +1,1 @@
-A website to display my work, interests and my web development skills
+A website to display my skills, interestes and projects that i have done yet and doimg.
