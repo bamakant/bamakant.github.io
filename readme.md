@@ -1,1 +1,2 @@
-A website to display my skills, interestes and projects that i have done yet and doimg.
+# Personal Website
+This is my personal website showing my development skills and projects i have done yet.
